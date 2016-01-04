@@ -40,7 +40,6 @@ __All Devices__:
 
 ## Maintainers
 
-* RainbowDashDC &lt;rainbowdashdc@pony.so&gt; (Active)
-* InDieTasten (Active)
+* Jared Allard &lt;jaredallard@outlook.com&gt; (Active)
 * TheOnlyCreator (Active)
 * CmdPwnd &lt;cmdstack@gmail.com&gt; (Active) 
